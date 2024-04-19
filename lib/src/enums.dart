@@ -1,0 +1,1 @@
+enum PositionMode { local, global }
